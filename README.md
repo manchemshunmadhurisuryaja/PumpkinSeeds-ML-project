@@ -78,6 +78,9 @@ The goal was to **boost accuracy and performance** using **ensemble learning mod
 * 📁 `Dataset/` → Contains CSV or .mat dataset
 * 📁 `Results/` → Performance graphs & screenshots
 * 📁 `Documentation/` → Abstract, implementation, results, and conclusion
+*  Data Preprocessing code
+*  Code for Graphs generation
+
 
 ---
 
